@@ -1,7 +1,7 @@
 import { NEW_MESSAGE } from '../actions/socketTypes';
 
 const INITIAL_STATE = {
-  someMessages: [],
+  someMessages:  [],
 };
 
 
